@@ -1,4 +1,4 @@
-# SANS ICS Summit 202010
+# SANS ICS Oil & Gas Summit 202010
 
 ## Title
 

@@ -1,4 +1,4 @@
-# SANS ICS Vendor Virtual Conference 202010
+# SANS ICS Oil & Gas Vendor Virtual Conference 202010
 
 ## Title
 
