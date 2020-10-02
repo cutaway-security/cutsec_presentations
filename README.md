@@ -10,9 +10,14 @@ Please contact us if you have any questions or comments about these topics. Chec
 * SANS ICS Gas & Oil Vendor Virtual Conference - How can organizations prepare their IT and OT teams to be ready for security incidents?
 * Wild West Hackin Fest Deadwood - Detecting Encrypted Radio Communications Using Universal Hacker Radio
 * DISC / SANS ICS Virtual Conference - Analyzing OT Radio Implementations for Attack Surfaces 
+* SANS @Mic - Prioritizing OT Security Efforts: The Five Tactical Things to Accomplish | SANS@MIC Talk
 
 ## 2019
 
 * WWHF Deadwood - Architecting Secure ICS Environments
 * SANS Pentest Hackfest - Pen Testing ICS and Other Highly Restricted Environments
 * SANS @Night - Assessments in Active ICS Environments
+
+## 2012
+
+* Black Hat and DefCon 2020 - Looking into the Eye of the Meter
