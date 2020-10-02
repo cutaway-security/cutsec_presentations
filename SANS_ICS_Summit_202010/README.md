@@ -12,6 +12,10 @@ Radio communications are used to establish communications without the need for w
 
 This is a modified version of the Wild West Hackin Fest Deadwood 2020 presentation. This version has been scaled down to 30 minutes and some of the content updated slightly to adjust for the time limit.
 
+## Presenter
+
+[Don C. Weber](https://twitter.com/cutaway)
+
 ## Video / Recordings
 
 TBD

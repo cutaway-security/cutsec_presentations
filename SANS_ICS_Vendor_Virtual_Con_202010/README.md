@@ -12,6 +12,10 @@ Many organizations would consider this a success, and it is. But this influx of 
  
 How can organizations prepare their IT and OT teams to be ready for security incidents? What are the techniques and tools the teams can use to improve the identification, containment, and eradication of suspicious or malicious activities to improve response times and reduce recovery efforts? This briefing will explore these questions through invited speakers while showcasing current capabilities available today. Vendor presentations will focus on case-studies and specific capabilities that may improve communication and response activities during an actual security incidents.
 
+## Presenter
+
+[Don C. Weber](https://twitter.com/cutaway)
+
 ## Video / Recordings
 
 TBD
