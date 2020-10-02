@@ -2,7 +2,7 @@
 
 ## Title
 
-Assessing and Exploiting Control Systems Analyzing
+Analyzing OT Radio Implementations for Attack Surfaces
 
 ## Abstract
  
