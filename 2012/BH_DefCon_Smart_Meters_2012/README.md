@@ -6,7 +6,7 @@ Looking into the Eye of the Meter
 
 ## Abstract
  
-Presentation about conducting hardware analysis and assessments of smart meters, communication modules, and industrial protocols.
+<img align="right" src="https://www.cutawaysecurity.com/wp-content/uploads/2019/08/logo.png" /> Presentation about conducting hardware analysis and assessments of smart meters, communication modules, and industrial protocols.
 
 ## Presenter
 
