@@ -10,7 +10,7 @@ Detecting Encrypted Radio Communications Using Universal Hacker Radio
 
 ### NOTE
 
-This is a modified version of the Wild West Hackin Fest Deadwood 2020 presentation. This version has been scaled down to 30 minutes and some of the content updated slightly to adjust for the time limit.
+This is a modified version of the [Wild West Hackin](https://www.youtube.com/channel/UCef0TWni8ghLcJphdmDBoxw) Fest Deadwood 2020 presentation. This version has been scaled down to 30 minutes and some of the content updated slightly to adjust for the time limit.
 
 ## Presenter
 
@@ -22,5 +22,5 @@ TBD
 
 ## Resources
 
-* [URH Analysis iMovie](https://www.cutawaysecurity.com/wp-content/uploads/2020/09/CutSec_WWHF_URH_HowTo2.mp4) - demontrating analysis techniques (too large to host on Github)
+* [URH Analysis iMovie](https://www.cutawaysecurity.com/wp-content/uploads/2020/09/CutSec_WWHF_URH_HowTo2.mp4) - demonstrating analysis techniques (too large to host on Github)
 * URH DEMO project with radio captures to conduct analysis

@@ -14,7 +14,7 @@ Analyzing OT Radio Implementations for Attack Surfaces
 
 ## Video / Recordings
 
-[DISC-SANS ICS Virtual Conference: Assessing and Exploiting Control Systems Analyzing](https://www.youtube.com/watch?v=AA_q8kTE0zw&t=3s)
+[DISC-SANS ICS Virtual Conference: Analyzing OT Radio Implementations for Attack Surfaces](https://www.youtube.com/watch?v=AA_q8kTE0zw&t=3s)
 
 ## Resources
 

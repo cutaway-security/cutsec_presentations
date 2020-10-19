@@ -18,5 +18,5 @@ TBD
 
 ## Resources
 
-* [URH Analysis iMovie](https://www.cutawaysecurity.com/wp-content/uploads/2020/09/CutSec_WWHF_URH_HowTo2.mp4) - demontrating analysis techniques (too large to host on Github)
+* [URH Analysis iMovie](https://www.cutawaysecurity.com/wp-content/uploads/2020/09/CutSec_WWHF_URH_HowTo2.mp4) - demonstrating analysis techniques (too large to host on Github)
 * URH DEMO project with radio captures to conduct analysis
